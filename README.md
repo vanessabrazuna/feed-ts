@@ -13,7 +13,7 @@ Application created in class, promoted by Rocketseat for teaching WEB technologi
 <br>
 
 <p align="center">
-  <img alt="Ignite Feed" src="![feed-ts](https://user-images.githubusercontent.com/73675022/199625860-9f01830f-60fa-43a1-bb64-997b1b006c24.png)" width="100%">
+  <img alt="Ignite Feed" src="https://user-images.githubusercontent.com/73675022/199627094-e8186e33-e678-4048-9609-908760be59d0.png" width="100%">
 </p>
 
 ## 🚀 Technologies
